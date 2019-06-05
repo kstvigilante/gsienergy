@@ -1,0 +1,37 @@
+.advisor-title{
+    color: #44504E;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin: 100px 0 0 50px;
+}
+
+.advisor-name{
+    color: #44504E;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin: 50px 0 0 150px;
+}
+
+.advisor-desg{
+    color: #44504E;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 0 150px;
+    font-weight: 400;
+}
+
+.advisor-desc{
+    font-size: 18px;
+    font-weight: 400px;
+    letter-spacing: 2px;
+    color: #44504E;
+    margin-left: 150px;
+}
