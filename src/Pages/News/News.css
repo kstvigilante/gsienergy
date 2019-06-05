@@ -9,7 +9,7 @@
 }
 
 .news-link{
-    margin-left: 100px;
+    margin-left: 10%;
     margin-top: 50px;
     font-size: 14px;
     text-decoration: underline;
@@ -19,6 +19,6 @@
 
 .news-para{
     font-size: 14px;
-    margin: 0 0 0 100px;
+    margin: 0 0 0 10%;
     color: #44504E;
 }

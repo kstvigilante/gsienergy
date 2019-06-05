@@ -26,7 +26,8 @@ export default function Advantage() {
                         shale and tar sands into major sources of global crude oil supply.
                     </p>
                     <div className = "adg-title">
-                        <img src = {leafImg} alt = "leaf"/>ENVIRONMENTALLY FRIENDLY
+                        <img src = {leafImg} alt = "leaf"/> 
+                        <span>ENVIRONMENTALLY FRIENDLY</span>
                     </div>
                     <p className = "adg-main-para">
                         GSI’s in-situ gasification technology is a very environmentally 
@@ -104,7 +105,8 @@ export default function Advantage() {
                     </ul>
 
                     <h3 className = "adg-title">
-                        <img src = {roundArrow} alt = "leaf"/> SELF SUSTAINABLE
+                        <img src = {roundArrow} alt = "leaf"/> 
+                        <span>SELF SUSTAINABLE</span>
                     </h3>
                     <p className = "adg-main-para">
                         In contrast to alternative in-situ technologies, all energy 
@@ -115,7 +117,8 @@ export default function Advantage() {
                         fuel the heater and onsite generator systems.
                     </p>
                     <h3 className = "adg-title">
-                        <img src = {upArrow} alt = "leaf"/>ECONOMICALLY ATTRACTIVE
+                        <img src = {upArrow} alt = "leaf"/>
+                        <span>ECONOMICALLY ATTRACTIVE</span>
                     </h3>
                     <p className = "adg-main-para">
                         We believe that the production cost of oil products generated 
@@ -171,7 +174,8 @@ export default function Advantage() {
                         the next set of wells.
                     </p>
                     <h3 className = "adg-title">
-                        <img src = {roundArrow} alt = "round" />    CARBON DIOXIDE GEO-SEQUESTRATION
+                        <img src = {roundArrow} alt = "round" />   
+                        <span>CARBON DIOXIDE GEO-SEQUESTRATION</span> 
                     </h3>
                     <div className = "gsi-img-cont">
                         <div className = "gsi-img-desc">

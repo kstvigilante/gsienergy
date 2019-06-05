@@ -54,3 +54,20 @@
     margin-top: 25px;
     margin-left: 25px;
 }
+
+@media screen and (max-width:700px){
+    .para-container{
+        flex-direction: column;
+    }
+
+    .para-content{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .additional-links a{
+        display: block;
+        margin-left: 0;
+        overflow: hidden;
+    }
+}

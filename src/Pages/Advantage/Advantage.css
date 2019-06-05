@@ -65,10 +65,13 @@
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: bold;
-    
     margin: 2rem 0 0 0;
     display: flex;
     align-items: center;
+}
+
+.adg-title span{
+    margin-left: 15px;
 }
 
 .adg-sub-title{
@@ -128,4 +131,18 @@
     background-image: url("/gsi_advantage.png");
     background-size: 100% 100%;
     margin-top: 20px;
+}
+
+@media screen and (max-width:700px){
+    .gsi-img-cont{
+        flex-direction: column
+    }
+
+    .gsi-img-desc{
+        width: 100%;
+    }
+
+    .gsi-adg-img{
+        width: 100%;
+    }
 }

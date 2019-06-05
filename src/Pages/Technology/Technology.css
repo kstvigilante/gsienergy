@@ -80,3 +80,13 @@
     background-image: url("/key_process.jpg");
     background-size: 100% 100%;
 }
+
+@media screen and (max-width:700px){
+    .tech-container{
+        flex-direction: column;
+    }
+
+    .tech-content{
+        width: 100%;
+    }
+}

@@ -5,7 +5,7 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-    margin: 100px 0 0 50px;
+    margin: 100px 0 0 10%;
 }
 
 .advisor-name{
@@ -15,7 +15,7 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-    margin: 50px 0 0 150px;
+    margin: 50px 0 0 20%;
 }
 
 .advisor-desg{
@@ -24,7 +24,7 @@
     line-height: 25px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin: 0 0 0 150px;
+    margin: 0 0 0 20%;
     font-weight: 400;
 }
 
@@ -33,5 +33,5 @@
     font-weight: 400px;
     letter-spacing: 2px;
     color: #44504E;
-    margin-left: 150px;
+    margin-left: 20%;
 }

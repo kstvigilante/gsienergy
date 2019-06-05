@@ -1,7 +1,6 @@
 import React from "react";
 import "./Shale.css";
 import Header from "../../Components/Header/Header";
-import { shaleBackground } from "../../config";
 
 export default function Shale() {
     return (
