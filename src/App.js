@@ -1,25 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import history from "./history";
+import { Router, Route } from "react-router-dom";
+import Home from "./Pages/Home/Home";
+import About from "./Pages/About/About";
+import Shale from "./Pages/Shale/Shale";
+import Technology from "./Pages/Technology/Technology";
+import Documents from "./Pages/Documents/Documents";
+import Advantage from "./Pages/Advantage/Advantage";
+import Contact from "./Pages/Contact/Contact";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router history = {history}>
+      <Route exact path = "/" component = {Home} />
+      <Route path = "/about" component = {About} />
+      <Route path = "/shale" component = {Shale} />
+      <Route path = "/technology" component = {Technology} />
+      <Route path = "/documents" component = {Documents} />
+      <Route path = "/advantage" component = {Advantage} />
+      <Route path = "/contact" component = {Contact} />
+    </Router>
   );
 }
 

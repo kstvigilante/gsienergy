@@ -1,0 +1,40 @@
+.contact-header{
+    min-height: 245px;
+    background-image: url("/contact_header.jpg");
+    background-size: 100% 100%;
+}
+
+.contact h3{
+    color: #44504E;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.c-name::before{
+    content:"g";
+    text-transform: capitalize;
+    font-size: 32px;
+}
+
+.address{
+    margin: 0 0 0 30px;
+    color: #44504E;
+}
+
+.c-phno{
+    margin: 15px 0 0 30px;
+    color: #44504E;
+}
+
+.c-email{
+    margin: 15px 0 0 30px;
+    color: #44504E;
+}
+
+.c-email span{
+    text-decoration: underline;
+}

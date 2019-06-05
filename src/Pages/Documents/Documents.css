@@ -1,0 +1,15 @@
+.doc-header{
+    min-height: 245px;
+    background-image: url("/investor_header.jpg");
+    background-size: 100% 100%;
+}
+
+.doc-title{
+    color: #44504E;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}

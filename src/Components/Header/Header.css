@@ -1,0 +1,33 @@
+.header{
+    background-color: #253d49;
+}
+
+.header-cont{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.header-links{
+    display: flex;
+    align-content: center;
+}
+
+.header-links a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 1rem;
+    transition: background 300ms ;
+}
+
+.header-links a:hover{
+    background-color: #2d505f;
+}
+
+.active-link{
+    background-color: #2d505f;
+}

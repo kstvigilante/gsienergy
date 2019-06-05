@@ -1,0 +1,11 @@
+.home{
+    min-height: 100vh;
+    background-image: url("/background.jpg");
+    background-size: 100% 100%;
+}
+
+.home-title{
+    margin-top: 100px;
+    color: white;
+    font-weight: 400;
+}
