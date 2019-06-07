@@ -1,18 +1,19 @@
 import React from "react";
-import "./AdvisoryTeam.css";
 import Header from "../../Components/Header/Header";
+import { Container } from "../../appStyle";
+import {TeamTitle, MemberName, MemberDesignation, MemberDesc, AdvisoryTeamPage} from "./style";
 
 export default function AdvisoryTeam() {
     return (
-        <div className = "p-5">
+        <AdvisoryTeamPage>
             <Header />
-            <div className="container">
-                <h3 className = "team-title">ADVISORY TEAM</h3>
-                <h3 className = "member-name">LARRY VANCE</h3>
-                <h5 className = "mem-designation">ACTING CHAIRMAN/CEO</h5>
-                <h3 className = "member-name">CHARLES BRIDGE</h3>
-                <h5 className = "mem-designation">ADVISOR</h5>
-                <p className = "mem-desc">
+            <Container>
+                <TeamTitle>ADVISORY TEAM</TeamTitle>
+                <MemberName>LARRY VANCE</MemberName>
+                <MemberDesignation>ACTING CHAIRMAN/CEO</MemberDesignation>
+                <MemberName>CHARLES BRIDGE</MemberName>
+                <MemberDesignation>ADVISOR</MemberDesignation>
+                <MemberDesc>
                     Charles Bridge brings a wealth of experience connecting 
                     investors with viable corporate partners, raising capital 
                     for corporate entities and managing financial and 
@@ -23,10 +24,10 @@ export default function AdvisoryTeam() {
                     grow the firm to $800 million in assets under management. 
                     Charles has an MBA from Northeastern University and a bachelor of science 
                     degree from the University of Maine.
-                </p>
-                <h3 className = "member-name">JOHN F. MCCARTHY, III</h3>
-                <h5 className = "mem-designation">ADVISOR</h5>
-                <p className = "mem-desc">
+                </MemberDesc>
+                <MemberName>JOHN F. MCCARTHY, III</MemberName>
+                <MemberDesignation>ADVISOR</MemberDesignation>
+                <MemberDesc>
                     John F. McCarthy III has practiced corporate and securities law 
                     for more than 40 years. He has extensive and diversified corporate 
                     finance experience in advising issuers, underwriters and indenture trustees 
@@ -48,10 +49,10 @@ export default function AdvisoryTeam() {
                     Company and many other public and private companies. John has a bachelor's degree from Cornell 
                     Univeristy, a J.D. degree from the National Law Center at George Washington University, and a 
                     LLM degree from Columbia University School of Law.
-                </p>
-                <h3 className = "member-name">DAVE KANUCH</h3>
-                <h5 className = "mem-designation">ADVISOR</h5>
-                <p className = "mem-desc">
+                </MemberDesc>
+                <MemberName>DAVE KANUCH</MemberName>
+                <MemberDesignation>ADVISOR</MemberDesignation>
+                <MemberDesc>
                     Dave Kanuch brings more than 30 years of experience to GSI as a systems design, testing, 
                     and operations engineer and manager for commercial nuclear power plants. Prior to his 
                     position with GSI, he was the operations director at Siempelkamp, where he managed the 
@@ -64,8 +65,8 @@ export default function AdvisoryTeam() {
                     advisory engineer and manager of the AP 1000 design team responsible for containment and control 
                     room safety systems. Dave has bachelor's degrees in mechanical engineering and biology fro 
                     the University of Pittsburgh.
-                </p>
-            </div>
-        </div>
+                </MemberDesc>
+            </Container>
+        </AdvisoryTeamPage>
     );
 }

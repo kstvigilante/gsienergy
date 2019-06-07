@@ -1,17 +1,18 @@
 import React from "react";
-import "./Documents.css";
 import Header from "../../Components/Header/Header";
+import { documentImg } from "../../config";
+import { Container } from "../../appStyle";
+import { DocHeader, DocTitle} from "./style";
 
 export default function Documents() {
     return (
         <div>
             <Header />
-            <div className = "doc-header">
+            <DocHeader src = {documentImg} alt = "documents" />
 
-            </div>
-            <div className="container">
-                <h1 className="doc-title">technical documents</h1>
-            </div>
+            <Container>
+                <DocTitle>technical documents</DocTitle>
+            </Container>
         </div>
     )
 }

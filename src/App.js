@@ -12,21 +12,25 @@ import Contact from "./Pages/Contact/Contact";
 import News from "./Pages/News/News";
 import AdvisoryTeam from "./Pages/AdvisoryTeam/AdvisoryTeam";
 import Advisor from "./Pages/Advisor/Advisor";
+import { ThemeProvider } from "styled-components";
+import { theme } from "./theme";
 
 function App() {
   return (
-    <Router history = {history}>
-      <Route exact path = "/" component = {Home} />
-      <Route path = "/about" component = {About} />
-      <Route path = "/shale" component = {Shale} />
-      <Route path = "/technology" component = {Technology} />
-      <Route path = "/documents" component = {Documents} />
-      <Route path = "/advantage" component = {Advantage} />
-      <Route path = "/contact" component = {Contact} />
-      <Route path = "/news" component = {News} />
-      <Route path = "/advisory_team" component = {AdvisoryTeam} />
-      <Route path = "/advisor" component = {Advisor} />
-    </Router>
+    <ThemeProvider theme={theme}>
+      <Router history={history}>
+        <Route exact path="/" component={Home} />
+        <Route path="/about" component={About} />
+        <Route path="/shale" component={Shale} />
+        <Route path="/technology" component={Technology} />
+        <Route path="/documents" component={Documents} />
+        <Route path="/advantage" component={Advantage} />
+        <Route path="/contact" component={Contact} />
+        <Route path="/news" component={News} />
+        <Route path="/advisory_team" component={AdvisoryTeam} />
+        <Route path="/advisor" component={Advisor} />
+      </Router>
+    </ThemeProvider>
   );
 }
 

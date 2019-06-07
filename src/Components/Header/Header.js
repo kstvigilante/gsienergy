@@ -1,25 +1,25 @@
 import React from "react";
-import "./Header.css";
-import { NavLink } from "react-router-dom";
 import { Logo } from "../../config";
+import { StyledHeader, HeaderCont, HeaderLinks, StyledLink } from "./style"
+import { Container } from "../../appStyle";
 
 export default function Header() {
     return (
-        <div className="header">
-            <div className="container">
-                <div className="header-cont">
+        <StyledHeader>
+            <Container>
+                <HeaderCont>
                     <img src={Logo} alt="gsi" />
-                    <div className = "header-links">
-                        <NavLink exact to="/" activeClassName="active-link"> home </NavLink>
-                        <NavLink to="/about" activeClassName="active-link"> about </NavLink>
-                        <NavLink to="/shale" activeClassName="active-link"> oil shale </NavLink>
-                        <NavLink to="/technology" activeClassName="active-link"> technology </NavLink>
-                        <NavLink to="/advantage" activeClassName="active-link"> gsi advantage </NavLink>
-                        <NavLink to="/contact" activeClassName="active-link"> contact us </NavLink>
-                        <NavLink to="/documents" activeClassName="active-link"> technical documents </NavLink>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    <HeaderLinks>
+                        <StyledLink exact to="/" activeClassName="active-link"> home </StyledLink>
+                        <StyledLink to="/about" activeClassName="active-link"> about </StyledLink>
+                        <StyledLink to="/shale" activeClassName="active-link"> oil shale </StyledLink>
+                        <StyledLink to="/technology" activeClassName="active-link"> technology </StyledLink>
+                        <StyledLink to="/advantage" activeClassName="active-link"> gsi advantage </StyledLink>
+                        <StyledLink to="/contact" activeClassName="active-link"> contact us </StyledLink>
+                        <StyledLink to="/documents" activeClassName="active-link"> technical documents </StyledLink>
+                    </HeaderLinks>
+                </HeaderCont>
+            </Container>
+        </StyledHeader>
     )
 }
