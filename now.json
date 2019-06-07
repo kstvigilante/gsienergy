@@ -1,7 +1,7 @@
 {
 "version": 2,
 "name": "gsienergy",
-"alias": "gsienergy.com",
+
 "builds": [
     { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "build" } }
   ],
