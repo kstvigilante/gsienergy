@@ -1,4 +1,4 @@
-var Images = require.context("../Images", true);
+var Images = require.context("../images", true);
 
 export const Logo = Images("./logo.png");
 
