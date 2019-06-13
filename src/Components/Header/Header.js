@@ -16,7 +16,7 @@ export default function Header() {
                         <StyledLink to="/technology" activeClassName="active-link"> technology </StyledLink>
                         <StyledLink to="/advantage" activeClassName="active-link"> gsi advantage </StyledLink>
                         <StyledLink to="/contact" activeClassName="active-link"> contact us </StyledLink>
-                        <StyledLink to="/documents" activeClassName="active-link"> technical documents </StyledLink>
+                        {/* <StyledLink to="/documents" activeClassName="active-link"> technical documents </StyledLink> */}
                     </HeaderLinks>
                 </HeaderCont>
             </Container>
