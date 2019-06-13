@@ -48,28 +48,28 @@ export default function Shale() {
                         <div>
                             <AdditionLinksTitle>Additional Information and Resources:</AdditionLinksTitle>
                             <AdditionalLinks 
-                                href = "https://web.archive.org/web/20180819162923/http://en.wikipedia.org/wiki/Oil_shale"
+                                href = "http://en.wikipedia.org/wiki/Oil_shale"
                                 target = "_blank"
                                 rel = "noopener noreferrer"
                             >
                                 HTTP://EN.WIKIPEDIA.ORG/WIKI/OIL_SHALE
                             </AdditionalLinks>
                             <AdditionalLinks
-                                href = "https://web.archive.org/web/20180819162923/http://ostseis.anl.gov/guide/oilshale/"
+                                href = "http://ostseis.anl.gov/guide/oilshale/"
                                 target = "_blank"
                                 rel = "noopener noreferrer"
                             >
                                 HTTP://OSTSEIS.ANL.GOV/GUIDE/OILSHALE/
                             </AdditionalLinks>
                             <AdditionalLinks
-                                href = "https://web.archive.org/web/20171107134031/http://www.instituteforenergyresearch.org/energy-overview/oil-shale/"
+                                href = "http://www.instituteforenergyresearch.org/energy-overview/oil-shale/"
                                 target = "_blank"
                                 rel = "noopener noreferrer"
                             >
                                 HTTP://WWW.INSTITUTEFORENERGYRESEARCH.ORG/ENERGY-OVERVIEW/OIL-SHALE/
                             </AdditionalLinks>
                             <AdditionalLinks
-                                href = "https://web.archive.org/web/20180819162923/http://energy.usgs.gov/OilGas/UnconventionalOilGas/OilShale.aspx"
+                                href = "http://energy.usgs.gov/OilGas/UnconventionalOilGas/OilShale.aspx"
                                 target = "_blank"
                                 rel = "noopener noreferrer"
                             >

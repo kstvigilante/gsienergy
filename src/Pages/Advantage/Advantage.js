@@ -193,7 +193,7 @@ export default function Advantage() {
                                 CO2 produced by the active well. 
                             </AdgMainPara>
                             <a 
-                                href = "https://web.archive.org/web/20180819160117/http://www.netl.doe.gov/"
+                                href = "http://www.netl.doe.gov/"
                                 target = "_blank"
                                 rel = "noopener noreferrer"
                             >

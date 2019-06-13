@@ -10,7 +10,7 @@ export default function News(){
             <Container>
                 <NewsTitle>in the news</NewsTitle>
                 <NewsLink
-                    href = "https://web.archive.org/web/20161001195949/http://www.gjsentinel.com/news/articles/energy-company-focusing-on-shale"
+                    href = "http://www.gjsentinel.com/news/articles/energy-company-focusing-on-shale"
                     target = "_blank"
                     rel = "noopener noreferrer"
                 >
@@ -23,7 +23,7 @@ export default function News(){
                     back to western Colorado.
                 </NewsPara>
                 <NewsLink
-                    href = "https://web.archive.org/web/20160803230558/http://www.gsienergy.com/SUN_110815_10F_F._edMed.pdf"
+                    href = "http://www.gsienergy.com/SUN_110815_10F_F._edMed.pdf"
                     target = "_blank"
                     rel = "noopener noreferrer"
                 >
