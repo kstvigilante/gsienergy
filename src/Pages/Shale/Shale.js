@@ -19,7 +19,7 @@ export default function Shale() {
                 <ParaContainer>
                     <ParaContent>
                         <StyledP>
-                            The GSI in-situ process was specifically designed to extract
+                            The OEI in-situ process was specifically designed to extract
                             gaseous hydrocarbon products from oil shale. Oil shale is an
                             organic-rich fine-grained sedimentary rock, containing
                             significant amounts of a compound known as kerogen, which can
@@ -40,7 +40,7 @@ export default function Shale() {
                             is comprised of marlstone.
                         </StyledP>
                         <StyledP>
-                            The GSI in-situ technology can also be used to extract oil from the
+                            The OEI in-situ technology can also be used to extract oil from the
                             bitumous tar/oil sands. There are more than 50 tar sands deposits
                             located in eastern Utah, containing an estimated 12 to 19 billion
                             barrels of oil.

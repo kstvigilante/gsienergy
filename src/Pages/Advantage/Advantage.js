@@ -19,10 +19,10 @@ export default function Advantage() {
             <AdgContainer>
                 <AdgContent>
                     <GsiTitle>
-                        THE GSI ADVANTAGE
+                        THE OEI ADVANTAGE
                     </GsiTitle>
                     <GsiDesc>
-                        The GSI Gasification Process delivers significant 
+                        The OEI Gasification Process delivers significant 
                         advantages over traditional and proposed ex-situ 
                         and in-situ technologies. We believe it constitutes a 
                         potential breakthrough both in terms of environmental 
@@ -34,7 +34,7 @@ export default function Advantage() {
                         <AdgTitleText>ENVIRONMENTALLY FRIENDLY</AdgTitleText>
                     </AdgTitle>
                     <AdgMainPara>
-                        GSI’s in-situ gasification technology is a very environmentally 
+                        OEI’s in-situ gasification technology is a very environmentally 
                         friendly process. It has a minimal environmental footprint, 
                         requires no water in the production process, does not create any 
                         subsurface structural disturbances and actively protects the 
@@ -43,7 +43,7 @@ export default function Advantage() {
                         well as other sources of CO2.
                     </AdgMainPara>
                     <AdgMainPara>
-                        GSI's in-situ gasification technology is both inherently and by design 
+                        OEI's in-situ gasification technology is both inherently and by design 
                         an environmentally friendly process. The inherent benefits of our 
                         technology include:
                     </AdgMainPara>
@@ -58,10 +58,10 @@ export default function Advantage() {
                     </AdgPara>
                     <AdgSubTitle>NO WATER CONSUMPTION</AdgSubTitle>
                     <AdgPara>
-                        The GSI in-situ gasification technology does not use water in its 
+                        The OEI in-situ gasification technology does not use water in its 
                         retorting processes. Water in the combustion gases, kerogen and 
                         rock will be recovered and purified as per state and federal 
-                        regulations. In most cases this makes the GSI process a 
+                        regulations. In most cases this makes the OEI process a 
                         net water producer.
                     </AdgPara>
                     <AdgSubTitle>MINIMAL EMISSIONS</AdgSubTitle>
@@ -72,21 +72,21 @@ export default function Advantage() {
                     </AdgPara>
                     <AdgSubTitle>MINIMAL CARBON FOOTPRINT</AdgSubTitle>
                     <AdgPara>
-                        The GSI process exhibits low well-to-pump Green House Gas emissions 
+                        The OEI process exhibits low well-to-pump Green House Gas emissions 
                         that are much lower than other oil shale technologies. There 
                         are also significant CO2 geo-sequestration 
                         opportunities post production.
                     </AdgPara>
                     <AdgSubTitle>ACTIVE GROUNDWATER PROTECTION</AdgSubTitle>
                     <AdgPara>
-                        GSI’s in-situ oil shale gasification process actively protects 
+                        OEI’s in-situ oil shale gasification process actively protects 
                         the groundwater through a set of parallel efforts:
                     </AdgPara>
 
 
                     <AdgList>
                         <AdgListItem> 
-                            The inherent nature of the GSI in-situ Oil Shale Gasification 
+                            The inherent nature of the OEI in-situ Oil Shale Gasification 
                             core process—the negative pressure system—will draw products 
                             as gases, including volatile organic and other contaminants, 
                             toward the effluent stream continuously and away 
@@ -114,7 +114,7 @@ export default function Advantage() {
                     </AdgTitle>
                     <AdgMainPara>
                         In contrast to alternative in-situ technologies, all energy 
-                        requirements of the GSI process (except for a short start-up 
+                        requirements of the OEI process (except for a short start-up 
                         period for the first production well) can be met without the 
                         need for an external energy supply. A portion of the hydrocarbon 
                         gases recovered from the well is sufficient to continuously 
@@ -126,17 +126,17 @@ export default function Advantage() {
                     </AdgTitle>
                     <AdgMainPara>
                         We believe that the production cost of oil products generated 
-                        from the GSI process will be significantly lower than those from 
+                        from the OEI process will be significantly lower than those from 
                         traditional oil shale and tar sand production methods. 
                         The main reasons are:
                     </AdgMainPara>
                 
                     <AdgSubTitle>EXTRACTION OF READILY MARKETABLE PRODUCTS</AdgSubTitle>
                     <AdgPara>
-                        The GSI process yields high API light crude, medium and heavy crudes 
+                        The OEI process yields high API light crude, medium and heavy crudes 
                         and separated hydrocarbon gases. Unlike products yielded by other 
-                        production processes, GSI's process acts like a fractionation 
-                        column making many of the GSI products readily marketable.
+                        production processes, OEI's process acts like a fractionation 
+                        column making many of the OEI products readily marketable.
                     </AdgPara>
                     <AdgSubTitle>HIGH YIELDS</AdgSubTitle>
                     <AdgPara>
@@ -144,9 +144,9 @@ export default function Advantage() {
                         to recovery from only the thick oil shale rich “Mahogany” zones, often times 
                         excluding numerous other layers of rich oil shale at other depths. 
                         These other layers can contain more oil shale than the mahogany layer but 
-                        are not confined to a single zone. The GSI process is not limited to only 
+                        are not confined to a single zone. The OEI process is not limited to only 
                         extracting products from the “Mahogany” zone – it actually allows for 
-                        recovery from the entire well cylinder cross section. The GSI in-situ 
+                        recovery from the entire well cylinder cross section. The OEI in-situ 
                         gasification technology may gasify and recover products from oil shale 
                         deposits as deep as 3,000 feet.
                     </AdgPara>
@@ -159,15 +159,15 @@ export default function Advantage() {
                     </AdgPara>
                     <AdgSubTitle>LOW OPERATING COST</AdgSubTitle>
                     <AdgPara>
-                        The GSI process has very low external energy requirements. Shortly 
+                        The OEI process has very low external energy requirements. Shortly 
                         after start-up, the process is self-sustainable in that a portion of 
                         the hydrocarbon gases recovered can be used as feed stocks. In 
-                        addition, the GSI process is highly automated, also contributing 
+                        addition, the OEI process is highly automated, also contributing 
                         to low operating cost.
                     </AdgPara>
                     <AdgSubTitle>LOW CAPITAL COST</AdgSubTitle>
                     <AdgPara>
-                        Several factors contribute to the low capital costs for the GSI 
+                        Several factors contribute to the low capital costs for the OEI 
                         Process. The process requires drilling of only one well, whereas 
                         alternative in-situ technologies typically require drilling and 
                         casing of separate heating and recovery wells. Many elements of the 
@@ -184,12 +184,12 @@ export default function Advantage() {
                     <GsiImgCont>
                         <GsiImgDesc>
                             <AdgMainPara>
-                                Post recovery, the GSI process leaves behind a unique sub-surface 
+                                Post recovery, the OEI process leaves behind a unique sub-surface 
                                 environment. Where originally kerogen was cracked and removed, 
                                 charred pores remain that provide very large surface areas 
                                 ideally suited for CO2 adsorptive geo-sequestration. 
                                 The amount of CO2 that can be sequestered in a retired 
-                                GSI production site is well beyond the amount of 
+                                OEI production site is well beyond the amount of 
                                 CO2 produced by the active well. 
                             </AdgMainPara>
                             <a 

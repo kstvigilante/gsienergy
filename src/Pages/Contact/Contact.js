@@ -12,8 +12,8 @@ export default function Contact(){
             <Header/>
             <ContactHeader alt = "contact" src = {contactImg} />
             <Container>
-                <ContactTitle>CONTACT GSI</ContactTitle>
-                <CapitalLetter>eneral Synfuels International, Inc.</CapitalLetter>
+                <ContactTitle>CONTACT OEI</ContactTitle>
+                <CapitalLetter>mni Energy International, Inc.</CapitalLetter>
                 <Address>2900 Government Way</Address>
                 <Address>Coeur d'Alene, ID 83815</Address>
                 <AdditionalDetails>Call: (406) 250-7750 </AdditionalDetails>

@@ -35,7 +35,7 @@ export const AboutPara = styled.p`
 `
 export const CapitalLetter = styled(AboutPara)`
     &:before{
-        content:"g";
+        content:"o";
         text-transform: capitalize;
         font-size: 32px;
     }

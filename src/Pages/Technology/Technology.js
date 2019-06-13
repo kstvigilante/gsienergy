@@ -13,7 +13,7 @@ export default function Technology() {
             <TechImgContainer>
                 <TechImage src = {technologyHeader} alt = "tech"/>
                 <TechTitleCont>
-                    <TechTitle>GSI HAS DEVELOPED A NEW <i>IN-SITU</i> GASIFICATION EXTRACTION PROCESS</TechTitle>
+                    <TechTitle>OEI HAS DEVELOPED A NEW <i>IN-SITU</i> GASIFICATION EXTRACTION PROCESS</TechTitle>
                     <TechTitle>WITH GREAT POTENTIAL FOR RECOVERING OIL AND GAS</TechTitle>
                     <TechTitle>FROM OIL SHALE AND OIL SANDS DEPOSITS.</TechTitle>
                 </TechTitleCont>
@@ -22,12 +22,12 @@ export default function Technology() {
             <Container>
                 <TechContainer>
                     <TechContent>
-                        <TechOverView>GSI TECHNOLOGY OVERVIEW</TechOverView>
+                        <TechOverView>OEI TECHNOLOGY OVERVIEW</TechOverView>
                         <TechOverViewDesc>
-                            GSI's technology stands out in a class of new oil shale
+                            OEI's technology stands out in a class of new oil shale
                             production methods called in-situ processing technologies.
                             Within the class of in-situ production technologies,
-                            GSI's patented process has several unique features that
+                            OEI's patented process has several unique features that
                             promise an environmental and economical breakthrough for
                             recovering oil and gas from oil shale and tar sands deposits.
                         </TechOverViewDesc>
@@ -45,10 +45,10 @@ export default function Technology() {
                     <TechContent>
                         <TechHeading>EXPANDED RECOVERY</TechHeading>
                         <TechDesc>
-                            The GSI process is not limited to extracting products only from
+                            The OEI process is not limited to extracting products only from
                             the “Mahogany Zone” but allows for recovery from the entire well
                             cross-section, making possible cost-effective recovery from many
-                            areas not useable by other processes. The GSI heating and recovery
+                            areas not useable by other processes. The OEI heating and recovery
                             systems are also well suited for product recovery
                             from oil sands deposits.
                         </TechDesc>
@@ -60,7 +60,7 @@ export default function Technology() {
                         </TechDesc>
                         <TechHeading>CO2 GEOSEQUESTRATION</TechHeading>
                         <TechDesc>
-                            The GSI process post-recovery leaves behind a unique sub-surface
+                            The OEI process post-recovery leaves behind a unique sub-surface
                             environment in the form of a large surface area of charred
                             pores that adsorb high amounts of carbon dioxide for
                             sequestration purposes.
@@ -72,11 +72,11 @@ export default function Technology() {
             <Container>
                 <TechContainer>
                     <TechContent>
-                        <TechHeading>GSI'S <i>IN-SITU</i> GASIFICATION PROCESS</TechHeading>
+                        <TechHeading>OEI'S <i>IN-SITU</i> GASIFICATION PROCESS</TechHeading>
                         <TechOverViewDesc>
                             Unlike traditional extraction methods, our
                             proprietary technology is economical, environmentally
-                            friendly, and self-sustaining. The GSI process is
+                            friendly, and self-sustaining. The OEI process is
                             a conceptually simple system:
                         </TechOverViewDesc>
                         <ul>

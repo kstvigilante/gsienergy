@@ -18,7 +18,7 @@ export default function AdvisoryTeam() {
                     investors with viable corporate partners, raising capital 
                     for corporate entities and managing financial and 
                     corporate accounting, SEC and NASD reporting, human 
-                    resources, and corporate risk matters. Prior to joining GSI, 
+                    resources, and corporate risk matters. Prior to joining OEI, 
                     he was managing director and chief financial officer with 
                     Brooke Private Equity Advisors in Boston, where he helped 
                     grow the firm to $800 million in assets under management. 
@@ -53,9 +53,9 @@ export default function AdvisoryTeam() {
                 <MemberName>DAVE KANUCH</MemberName>
                 <MemberDesignation>ADVISOR</MemberDesignation>
                 <MemberDesc>
-                    Dave Kanuch brings more than 30 years of experience to GSI as a systems design, testing, 
+                    Dave Kanuch brings more than 30 years of experience to OEI as a systems design, testing, 
                     and operations engineer and manager for commercial nuclear power plants. Prior to his 
-                    position with GSI, he was the operations director at Siempelkamp, where he managed the 
+                    position with OEI, he was the operations director at Siempelkamp, where he managed the 
                     $35 million successful reactor vessel segmentation project at Zion Nuclear. Prior to that, 
                     Dave worked at The Babcock & Wilcox (B&W;) Company as director of design optimization and 
                     manager of nuclear steam supply systems for small modular reactors (SMRs). In that role he 

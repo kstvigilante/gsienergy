@@ -30,7 +30,7 @@ export default function News(){
                     RETAIL, HEALTHCARE AND ENERGY ARE ALL MAKING MOVES
                 </NewsLink>
                 <NewsPara>
-                    GSI is ready to tackle oil shale with a new set of solutions.
+                    OEI is ready to tackle oil shale with a new set of solutions.
                 </NewsPara>
             </Container>
         </div>

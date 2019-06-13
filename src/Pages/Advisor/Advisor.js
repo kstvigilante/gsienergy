@@ -19,7 +19,7 @@ export default function Advisor(){
                 <AdvisorDesc>Founder of Natural Resources Group</AdvisorDesc>
                 <AdvisorName>ANDREW MALONE</AdvisorName>
                 <AdvisorDesg>ADVISOR</AdvisorDesg>
-                <AdvisorDesc>Primary GSI early-state investor</AdvisorDesc>
+                <AdvisorDesc>Primary OEI early-state investor</AdvisorDesc>
                 <AdvisorDesc>Focused on responsible energy development</AdvisorDesc>
             </Container>
         </AdvisorPage>
