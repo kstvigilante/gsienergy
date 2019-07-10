@@ -10,7 +10,7 @@ export default function About(){
             <Header/>
             <AboutImageHeader src = {aboutImage} alt = "about"/>
             <Container>
-                <AboutTitle>about gsi</AboutTitle>
+                <AboutTitle>about oei</AboutTitle>
                 <CapitalLetter>
                     mni Energy International, Inc. ("OEI") is committed to 
                     delivering a green transformation for fossil fuels development. 
