@@ -1,6 +1,8 @@
 {
 "version": 2,
 "name": "gsienergy",
+"alias": ["omnienergy.io", "www.omnienergy.io"],
+"scope": "gsienergy",
 
 "builds": [
     { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "build" } }
